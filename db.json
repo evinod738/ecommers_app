@@ -1,0 +1,25 @@
+
+  "employee data": [
+    {
+      "id": 1,
+     "name":"vinod",
+     "email":"vinod@gmail.com",
+     "mobile":"8897593774",
+     "address":"andrapredesh",
+    },
+    {
+    "id": 1,
+    "name":"maghana",
+    "email":"maghna@gmail.com",
+    "mobile":"0987654",
+    "address":"dhavanagiri",
+    },
+{
+    "id": 1,
+    "name":"munib",
+    "email":"munib@gmail.com",
+    "mobile":"88998765",
+    "address":"banglore",
+    }
+
+  ],
